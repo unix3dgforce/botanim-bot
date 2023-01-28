@@ -1,0 +1,6 @@
+database_type: "sqlite"
+connection_string: "db.sqlite3"
+date_format: "%d.%m.%Y"
+vote_elements_count: 3
+all_books_callback_pattern: "all_books_"
+vote_books_callback_pattern: "vote_"
